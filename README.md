@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio —Peter Ngwuta-cletus
 
-Aspiring Data Analyst with hands-on experience analyzing real-world business and operational datasets.  
+A Detail-oriented Data Analyst with hands-on experience analyzing real-world business and operational datasets.  
 Focused on clarity, rigor, and translating messy data into practical, decision-oriented insights.
 
 🔗 LinkedIn: https://www.linkedin.com/in/peter-ngwuta-cletus-290281292  
