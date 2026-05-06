@@ -1,11 +1,4 @@
-# 📊 Data Analytics Portfolio —Peter Ngwuta-cletus
-
-A Detail-oriented Data Analyst with hands-on experience analyzing real-world business and operational datasets.  
-Focused on clarity, rigor, and translating messy data into practical, decision-oriented insights.
-
-🔗 LinkedIn: https://www.linkedin.com/in/peter-ngwuta-cletus-290281292  
-📧 Email: peteruchenna74@gmail.com  
-
+# 📊 🚗 NCR Ride Business Performance Analysis
 ---
 
 ## 🔍 Core Skills & Tools
@@ -19,8 +12,7 @@ Focused on clarity, rigor, and translating messy data into practical, decision-o
 
 ## 📁 Featured Projects
 
-### 🚗 Uber Ride Business Performance Analysis
-**Tools:** Excel, Power BI, Power Query  
+### 🚗 NCR Ride Business Performance Analysis  
 
 **Problem:**  
 Understand operational efficiency and revenue patterns from large-scale ride data.
@@ -68,17 +60,6 @@ Help job seekers understand which roles face high AI automation risk and which s
 
 ---
 
-## 💼 Professional Experience (Analytics-Focused)
-
-### Sales Performance & Team Analytics Lead — AIM Global Nigeria  
-**Sept 2021 – Oct 2024**
-
-- Tracked sales revenue, conversion rates, and team productivity using Excel  
-- Designed performance reports to identify high-value behaviors  
-- Analyzed onboarding and engagement data to reduce early team drop-off  
-- Supported data-driven decisions for a distributed team of 30+ members  
-
----
 
 ## 🧠 How I Think About Data
 I approach analysis as a **decision-support tool**, not just numbers.  
